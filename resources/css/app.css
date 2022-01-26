@@ -1,0 +1,34 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bg-hero{
+    background-image: url('/img/R.png');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+}
+
+/* #slider{
+    overflow: hidden;
+}
+#slider figure{
+    position: relative;
+    width: 500%;
+    margin: 0;
+    left: 0;
+    animation: 20s slider infinite;
+}
+#slider figure image{
+    width: 20%;
+    float: left;
+}
+@keyframes slider{
+    0%{
+        left: 0;
+    }
+    20%{
+        left: 0;
+    }
+} */
+
